@@ -7,4 +7,13 @@ it will not be needed anymore.
 
 desc: 		recursive search in directories for a specific pattern
 cmd desc: 	grep -Recursive linenumber word -e (pattern) 
-cmd: 		grep -Rnw . -e 'cout*'              
+cmd: 		grep -Rnw . -e 'cout*'             
+
+## Vim
+
+desc:		endofline
+cmd: 		$
+
+desc:		line under
+cmd: 		o
+
