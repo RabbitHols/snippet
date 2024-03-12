@@ -24,3 +24,8 @@ cmd: 		`o`
 
 desc: 		show file explorer
 cmd:		`:S`
+
+## g++
+
+desc: 		compile with debug active
+cmd:		`g++ -g filename.cpp`
