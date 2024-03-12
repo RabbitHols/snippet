@@ -22,3 +22,5 @@ cmd: 		`$`
 desc:		line under
 cmd: 		`o`
 
+desc: 		show file explorer
+cmd:		`:S`
